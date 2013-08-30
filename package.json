@@ -12,6 +12,9 @@
   },
   "preferGlobal": true,
   "private": true,
+  "bin": {
+    "cpwd": "bin/cpwd"
+  },
   "bugs": {
     "url": "https://github.com/stephenmathieson/node-cpwd/issues"
   },
