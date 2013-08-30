@@ -1,0 +1,5 @@
+#!/usr/bin/env node
+
+var clip = require('cliparoo')
+
+clip(process.cwd(), function(){});
